@@ -61,8 +61,7 @@ Updates are planned to add the following enhancements
 
 ## Note
 
-RGB and RGBA initializers are included as Class methods rather than initializers to avoid conflicts with existing initializers.
-Basic colors include all basic colors listed in the W3C CSS specification including the ones already provided by UIColor. 
+RGB and RGBA initializers are included as Class methods rather than initializers to avoid conflicts with existing initializers. Basic colors include all basic colors listed in the W3C CSS specification including the ones already provided by UIColor. 
 
 Any suggestions for improvements are welcome. Kindly email me at jeswinsimon@gmail.com or contact me on twitter [@jeswinsimon](https://www.twitter.com/jeswinsimon) regarding queries and suggestions.
 
