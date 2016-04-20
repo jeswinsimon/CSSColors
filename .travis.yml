@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode7.2
-xcode_workspace: CSSColors-Example.xcworkspace
+xcode_workspace: /Example/CSSColors-Example.xcworkspace
 xcode_scheme: CSSColors-Example
 xcode_sdk: iphonesimulator8.4
