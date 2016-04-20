@@ -1,6 +1,6 @@
 {
   "name": "CSSColors",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "UIColor extension for supporting CSS Colors",
   "description": "Extend UIColor to Support CSS Color Codes\nCreate UIColor objects with rgb and rgba color codes",
   "homepage": "https://github.com/jeswinsimon/CSSColors",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jeswinsimon/CSSColors.git",
-    "tag": "0.1.0"
+    "tag": "1.0.0"
   },
   "social_media_url": "https://twitter.com/jeswinsimon",
   "platforms": {

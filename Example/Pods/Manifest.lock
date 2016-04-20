@@ -1,5 +1,5 @@
 PODS:
-  - CSSColors (0.1.0)
+  - CSSColors (1.0.0)
 
 DEPENDENCIES:
   - CSSColors (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  CSSColors: 026279460e7da8fc7a251fa8be598f72136c9a85
+  CSSColors: be154e1c5db4657cd89c154f9e730b3648970f53
 
 COCOAPODS: 0.39.0
