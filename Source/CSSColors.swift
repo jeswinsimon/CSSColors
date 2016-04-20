@@ -27,7 +27,7 @@
 import Foundation
 import UIKit
 
-extension UIColor {
+public extension UIColor {
     
     // MARK: RGB Initializers
     

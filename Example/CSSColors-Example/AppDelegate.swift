@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Example
+//  CSSColors-Example
 //
 //  Created by Jeswin Simon on 21/04/16.
 //  Copyright © 2016 Jeswin Simon. All rights reserved.

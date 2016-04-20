@@ -4,25 +4,15 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CSSColors.xcscheme</key>
+		<key>CSSColors-Example.xcscheme</key>
 		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-Example.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
+			<key>orderHint</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2B7019A644E702C40432E17C7BB93C74</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>B04D25A1366D00BA842A923A9D60B8AD</key>
+		<key>6D503CE21CC7F5DE00A4CBE9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

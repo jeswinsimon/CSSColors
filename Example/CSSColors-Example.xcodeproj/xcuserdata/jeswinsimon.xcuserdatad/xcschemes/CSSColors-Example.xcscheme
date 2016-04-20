@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6D45D9D51CC7E88500FE763E"
-               BuildableName = "Example.app"
-               BlueprintName = "Example"
-               ReferencedContainer = "container:Example.xcodeproj">
+               BlueprintIdentifier = "6D503CE21CC7F5DE00A4CBE9"
+               BuildableName = "CSSColors-Example.app"
+               BlueprintName = "CSSColors-Example"
+               ReferencedContainer = "container:CSSColors-Example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6D45D9D51CC7E88500FE763E"
-            BuildableName = "Example.app"
-            BlueprintName = "Example"
-            ReferencedContainer = "container:Example.xcodeproj">
+            BlueprintIdentifier = "6D503CE21CC7F5DE00A4CBE9"
+            BuildableName = "CSSColors-Example.app"
+            BlueprintName = "CSSColors-Example"
+            ReferencedContainer = "container:CSSColors-Example.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6D45D9D51CC7E88500FE763E"
-            BuildableName = "Example.app"
-            BlueprintName = "Example"
-            ReferencedContainer = "container:Example.xcodeproj">
+            BlueprintIdentifier = "6D503CE21CC7F5DE00A4CBE9"
+            BuildableName = "CSSColors-Example.app"
+            BlueprintName = "CSSColors-Example"
+            ReferencedContainer = "container:CSSColors-Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6D45D9D51CC7E88500FE763E"
-            BuildableName = "Example.app"
-            BlueprintName = "Example"
-            ReferencedContainer = "container:Example.xcodeproj">
+            BlueprintIdentifier = "6D503CE21CC7F5DE00A4CBE9"
+            BuildableName = "CSSColors-Example.app"
+            BlueprintName = "CSSColors-Example"
+            ReferencedContainer = "container:CSSColors-Example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
