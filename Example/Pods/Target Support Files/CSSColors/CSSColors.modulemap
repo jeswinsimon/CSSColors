@@ -1,0 +1,6 @@
+framework module CSSColors {
+  umbrella header "CSSColors-umbrella.h"
+
+  export *
+  module * { export * }
+}

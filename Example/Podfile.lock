@@ -1,0 +1,14 @@
+PODS:
+  - CSSColors (0.1.0)
+
+DEPENDENCIES:
+  - CSSColors (from `../`)
+
+EXTERNAL SOURCES:
+  CSSColors:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CSSColors: bc4d4ad61a5a33d70da68a1cc793be4537ce3138
+
+COCOAPODS: 0.39.0
