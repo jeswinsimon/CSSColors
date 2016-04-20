@@ -67,4 +67,4 @@ Any suggestions for improvements are welcome. Kindly email me at jeswinsimon@gma
 
 ## License
 
-CSSColors is available under the MIT license. See the LICENSE file for more info.
+CSSColors is available under the MIT license. See LICENSE for more info.
